@@ -1,5 +1,6 @@
-# SimpleSPA
-Single Page Application without Framework
+# vanilla-spa
+A simple implementation of a SPA with plain Js.
 
-Using plain/vanilla javascript to power single page application.
+For more info go to:
 
+[Js: Vanilla script SPA](https://medium.com/frontend-fun/js-vanilla-script-spa-1b29b43ea475)
